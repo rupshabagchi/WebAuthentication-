@@ -1,3 +1,3 @@
 # WebAuthentication
 
-Node Server+ React+Redux client authentication using jwt tokens
+Basic Node Server+ React+Redux client authentication using jwt tokens
